@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">06-info-user</string>
+    <string name="todo">TODO</string>
+    <string name="user_name">User Name</string>
+    <string name="user_surname">User surname</string>
+    <string name="user_age">User age</string>
+    <string name="save">Save</string>
+</resources>
