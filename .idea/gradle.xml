@@ -15,9 +15,14 @@
             <option value="$PROJECT_DIR$/03-multple-page-app" />
             <option value="$PROJECT_DIR$/04-animations" />
             <option value="$PROJECT_DIR$/07-spinner" />
+            <option value="$PROJECT_DIR$/08-recyclerview" />
             <option value="$PROJECT_DIR$/android-listandadapter-samples" />
             <option value="$PROJECT_DIR$/animations" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/edittextandbutton" />
+            <option value="$PROJECT_DIR$/loginapp" />
+            <option value="$PROJECT_DIR$/loginapp/loginapp1" />
+            <option value="$PROJECT_DIR$/loginapp/loginapp2" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -127,18 +127,17 @@
             android:inputType="textPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
-    </com.google.android.material.textfield.TextInputLayout>
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btn_register"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
-        android:text="@string/btn_register"
-        style="@style/ButtonGreen"
-        tools:layout_editor_absoluteX="42dp"
-        tools:layout_editor_absoluteY="448dp"
-        tools:ignore="MissingConstraints" />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_register"
+            style="@style/ButtonGreen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:layout_constraintBottom_toTopOf="@+id/btn_register"
+            android:text="@string/btn_register"
+            tools:ignore="MissingConstraints" />
+    </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
         android:id="@+id/tv_have_account"
