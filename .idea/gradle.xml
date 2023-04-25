@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/loginapp" />
             <option value="$PROJECT_DIR$/loginapp/loginapp1" />
             <option value="$PROJECT_DIR$/loginapp/loginapp2" />
+            <option value="$PROJECT_DIR$/validateedittext" />
           </set>
         </option>
       </GradleProjectSettings>
