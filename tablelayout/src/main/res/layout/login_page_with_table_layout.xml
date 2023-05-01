@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:stretchColumns="1"
+    android:layout_height="match_parent"
+    android:layout_marginStart="@dimen/margin"
+    android:layout_marginEnd="@dimen/margin"
+    android:layout_marginTop="@dimen/margin"
+    android:layout_marginBottom="@dimen/margin"
+    >
+
+    <TableRow>
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_span="2"
+            android:src="@mipmap/ic_launcher_round"/>
+    </TableRow>
+    <TableRow android:layout_marginTop="@dimen/margin">
+
+         <TextView android:text="Name"/>
+         <EditText android:hint="Ismingiz"/>
+    </TableRow>
+    <TableRow android:layout_marginTop="@dimen/margin">
+        <TextView android:text="Password"/>
+        <EditText android:hint="Password"/>
+    </TableRow>
+    <TableRow android:layout_marginTop="@dimen/margin">
+        <Button
+            android:layout_span="2"
+            android:text="Login"
+            />
+    </TableRow>
+
+</TableLayout>

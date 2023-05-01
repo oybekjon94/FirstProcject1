@@ -20,9 +20,12 @@
             <option value="$PROJECT_DIR$/animations" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/edittextandbutton" />
+            <option value="$PROJECT_DIR$/generaterandomnumber" />
             <option value="$PROJECT_DIR$/loginapp" />
             <option value="$PROJECT_DIR$/loginapp/loginapp1" />
             <option value="$PROJECT_DIR$/loginapp/loginapp2" />
+            <option value="$PROJECT_DIR$/soddauielement" />
+            <option value="$PROJECT_DIR$/tablelayout" />
             <option value="$PROJECT_DIR$/validateedittext" />
           </set>
         </option>

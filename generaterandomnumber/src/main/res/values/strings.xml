@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GenerateRandomNumber</string>
+    <string name="number_is_int">Number is Int?</string>
+    <string name="number">100</string>
+    <string name="generate">Generate</string>
+    <array name="initial">
+        <item>0</item>
+        <item>1000</item>
+    </array>
+</resources>
